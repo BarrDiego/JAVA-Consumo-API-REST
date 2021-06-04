@@ -1,0 +1,4 @@
+com\MyOrg\WSApp\client\ApiClient.class
+com\MyOrg\WSApp\controller\CityController.class
+com\MyOrg\WSApp\model\CityWeather.class
+com\MyOrg\WSApp\model\WeatherResponse.class
